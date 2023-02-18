@@ -10,7 +10,7 @@ hr{
     margin-bottom: -50px;
 }
 ul{  
-    list-style-type: square;
+    list-style-type: square;    
     width: fit-content;
     direction: rtl;
     font-weight: bold;
@@ -50,13 +50,16 @@ ul{
    text-align: right;
    color: white;
 }
+#first{
+    padding-left: 20px;
+    margin-left: 10px;
+}
 #text-1{
     text-justify: auto;
 }
 #text-2{
     text-justify: auto;
 }
-#coded{
-    padding-top: 20px;
-    padding-left: 35px;
+#logo{
+    direction: rtl;
 }
