@@ -1,0 +1,11 @@
+.rightside {
+    background-color: rgb(34, 241, 75);
+    
+}
+ul{
+    margin-top: 45px;
+  
+    list-style-type: square;
+    font-size: 800;
+    font-weight: bold; 
+}
