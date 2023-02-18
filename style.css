@@ -2,10 +2,30 @@
     background-color: rgb(34, 241, 75);
     
 }
-ul{
-    margin-top: 45px;
-  
+ul{  
     list-style-type: square;
-    font-size: 800;
-    font-weight: bold; 
+}
+#leftside{
+    position: absolute;
+    top: 10px;
+    /* left: 10px; */
+    background-color:white;
+}
+#rightside{
+    position: absolute;
+    top: 10px;
+    left: 772px;
+    background-color:rgb(242, 15, 15);
+    height: 500px;
+}
+#part-1{
+    position: absolute;
+    top: 500px;
+    height: 184px;
+}
+#part-2{
+    position: absolute;
+    top: 500px;
+    left: 772px;
+   text-align: right;
 }
